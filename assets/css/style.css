@@ -472,9 +472,9 @@ input[type="radio"]:checked:before {
 	}
 }
 @media screen and (max-width: 660px) {
-	.card {
+	/* .card {
 		padding: 24px 14px 0 14px;
-	}
+	} */
 	.card__header.position--relative {
 		bottom: 50px;
 	}
