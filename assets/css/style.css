@@ -643,6 +643,9 @@ input[type="radio"]:checked:before {
 		background-color: unset;
 		margin-left: 9px;
 	}
+	.modal2 {
+		transform: translateY(25%);
+	}
 }
 @media screen and (max-width: 320px) {
 	.submit {
@@ -651,5 +654,8 @@ input[type="radio"]:checked:before {
 	}
 	.input--pledge {
 		margin: 0 0 8px 0;
+	}
+	.modal2 {
+		max-width: 290px !important;
 	}
 }
