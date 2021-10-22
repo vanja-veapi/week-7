@@ -136,7 +136,7 @@ nav ul li:nth-child(2) {
 }
 .modal1 {
 	height: 600px;
-	overflow: scroll;
+	overflow-y: scroll;
 }
 .modal2 {
 	max-width: 540px !important;
