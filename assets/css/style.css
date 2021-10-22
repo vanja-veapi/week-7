@@ -143,6 +143,7 @@ nav ul li:nth-child(2) {
 	padding: 17px 40px;
 	font-weight: var(--bold);
 	display: inline-block;
+	transition: 0.3s;
 }
 .btn--primary:active {
 	background-color: #147a73;
