@@ -489,8 +489,9 @@ input[type="radio"]:checked:before {
 	}
 	.modal1 {
 		max-width: 600px;
-		overflow: unset;
+		overflow: hidden;
 		height: auto;
+		position: initial;
 	}
 	.card__main {
 		transform: translateY(-30px);
