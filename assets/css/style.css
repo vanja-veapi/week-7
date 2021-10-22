@@ -646,6 +646,9 @@ input[type="radio"]:checked:before {
 	.modal2 {
 		transform: translateY(25%);
 	}
+	.modal1 {
+		transform: translateY(10%);
+	}
 }
 @media screen and (max-width: 320px) {
 	.submit {
