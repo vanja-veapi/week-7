@@ -169,12 +169,12 @@ main {
 }
 header {
 	height: 400px;
-	background-image: url(../images/image-hero-desktop.jpg);
+	padding: 0 165px;
+	padding-top: 48px;
+	background: linear-gradient(0deg, rgba(2, 0, 36, 0) 50%, rgba(0, 0, 0, 1) 100%), url(../images/image-hero-desktop.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
-	padding: 0 165px;
-	padding-top: 48px;
 }
 .card,
 .modal1 {
